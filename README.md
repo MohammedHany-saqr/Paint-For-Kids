@@ -28,3 +28,4 @@
   <li>Parents and educators looking for educational and entertaining software</li>
 </ul>
 <h3>Installation</h3>
+<p>git clone https://github.com/MohammedHany-saqr/Paint-for-kids.git</p>
